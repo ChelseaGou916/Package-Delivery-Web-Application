@@ -1,0 +1,5 @@
+-The status of package are not specified clearly, from packed to delivered.
+
+-The WorldConnect’s field amazon_connect can not be set properly.
+
+-Truck finding algorithm is not good enough.
