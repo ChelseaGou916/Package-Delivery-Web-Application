@@ -1,9 +1,10 @@
+# Specify Java and Python files
 *.java linguist-language=Java
 *.py linguist-language=Python
 
-# Other specific file types
+# Specify other specific file types
 *.html linguist-language=HTML
 *.css linguist-language=CSS
 
-# All other files
-* linguist-language=Java
+# Default to Java for all other file types
+* -linguist-language
