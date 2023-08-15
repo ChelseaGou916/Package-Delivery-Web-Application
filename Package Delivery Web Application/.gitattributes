@@ -1,3 +1,2 @@
-app/**/* linguist-language=Java
-build/**/* linguist-language=Java
-upsWebsite/**/*.py linguist-language=Python
+app/**/* linguist-language=Python
+upsWebsite/**/* linguist-language=Java
