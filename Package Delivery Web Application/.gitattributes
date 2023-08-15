@@ -1,2 +1,2 @@
-app/**/*.java linguist-language=Java
-upsWebsite/mysite/mysite/*.py linguist-language=Python
+app/**/* linguist-language=Java
+upsWebsite/**/*.py linguist-language=Python
